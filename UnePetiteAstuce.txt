@@ -1,0 +1,2 @@
+Vous le savez probablement déjà mais en appuyant sur "tab" quand on écris dans l'invite de commande,
+celui ci complète automatiquement le reste du mot si c'est possible, très pratique!
